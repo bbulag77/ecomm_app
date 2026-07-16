@@ -4,6 +4,16 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import { library } from '@fortawesome/fontawesome-svg-core';
+import { faBars, faShoppingCart, faTimes,faBolt, faBookOpen, faTags, faStar } from '@fortawesome/free-solid-svg-icons';
+import { faStarHalfAlt } from '@fortawesome/free-solid-svg-icons'; 
+
+library.add(faBars, faShoppingCart, faBolt );
+library.add(faBookOpen, faTags);
+library.add(faTimes, faStar, faStarHalfAlt);
+
+
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
