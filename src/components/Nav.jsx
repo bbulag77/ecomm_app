@@ -1,4 +1,4 @@
-importimport React from 'react';
+import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import LibraryLogo from '../assets/Library.svg';
 //import ShoppingCart from '../assets/cart.svg';
