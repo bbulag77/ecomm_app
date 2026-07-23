@@ -1,9 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import LibraryLogo from '../assets/Library.svg';
-//import ShoppingCart from '../assets/cart.svg';
- 
-
 
 const Nav = () => {
   function openMenu() {
@@ -28,7 +25,7 @@ const Nav = () => {
           </a>
         </li>
         <li className="nav__link">
-          <a href="/about">
+          <a href="/books">
            Books
           </a>
         </li>

@@ -1,4 +1,4 @@
- import React from 'react';
+import React from 'react';
 import Logo from '../assets/Library.svg';
 
 const Footer = () => {
@@ -13,7 +13,7 @@ const Footer = () => {
            </figure>
           </a>
           <div className="footer__list">
-            <a href="/home" className="footer__link">Home</a>
+            <a href="/" className="footer__link">Home</a>
             <a href="/about" className="footer__link no-cursor">
               <span className="footer__link no-cursor">About</span>
             </a>

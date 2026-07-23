@@ -1,0 +1,27 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 50E8-4EBB
+
+ Directory of C:\fes_projects\ecomm_app\src\assets
+
+07/19/2026  09:24 AM    <DIR>          .
+07/19/2026  09:24 AM    <DIR>          ..
+12/10/2025  05:00 PM            95,894 atomic habits.jpg
+12/10/2025  05:00 PM            72,125 book-1.jpeg
+12/10/2025  05:00 PM            94,942 book-2.jpeg
+12/10/2025  05:00 PM            88,387 book-3.jpeg
+12/10/2025  05:00 PM            93,309 book-4.jpeg
+12/10/2025  05:00 PM            56,363 book-5.jpeg
+12/10/2025  05:00 PM            69,242 book-6.jpeg
+12/10/2025  05:00 PM            81,687 book-7.jpg
+12/10/2025  05:00 PM            54,141 book-8.jpeg
+12/10/2025  05:00 PM             9,144 cart.svg
+12/10/2025  05:00 PM            73,151 crack the coding interview.png
+12/10/2025  05:00 PM            81,407 david goggins.jpeg
+12/10/2025  05:00 PM            54,373 deep work.jpeg
+12/10/2025  05:00 PM             9,144 empty_cart.svg
+12/10/2025  05:00 PM            15,968 Library.svg
+07/19/2026  09:45 AM                 0 lista.txt
+12/10/2025  05:00 PM            36,398 Undraw_Books.svg
+12/10/2025  05:00 PM               465 wave.svg
+              18 File(s)        986,140 bytes
+               2 Dir(s)  107,653,074,944 bytes free
